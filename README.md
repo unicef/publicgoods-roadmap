@@ -1,4 +1,4 @@
-# Technical Roadmap for the Digital Public Goods Alliance
+# Technical Roadmap for Digital Public Goods
 
 Embracing our values of openness and transparency, we are hereby documenting our [product roadmap](https://app.zenhub.com/workspaces/digital-public-goods---technical-roadmap---5f9c4ed1abaaf60010f1bf2e/roadmap) and [product backlog](https://app.zenhub.com/workspaces/digital-public-goods---technical-roadmap---5f9c4ed1abaaf60010f1bf2e/board?repos=169535457,296865900,308700920,171995289) in this repository. We are using **ZenHub** as the Agile Project Management due to its smooth integration with GitHub.
 
